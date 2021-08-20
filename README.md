@@ -1,7 +1,7 @@
 # LuzKwin
 a theme i made for kwin, based on genome, features:
 
- - Rounded corners
+ - Rounder corners
  - Mac-like close button
  - hidden shadows
 
